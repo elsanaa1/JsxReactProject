@@ -2,6 +2,7 @@
  Play around with some React components and JSX.
  
 Instructions:
+
  ·Create a project using create-react-app
 
 ·Create App.js in the src folder and use it as a root component for your React app.
