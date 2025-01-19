@@ -21,8 +21,8 @@ function App() {
         <Card style={styleCard}>
           <Card.Body  style={cardbodyStyl}>
               <Image />
-              <Name/>
-              <Description/>
+              <Name />
+              <Description />
               <Price />
           </Card.Body>
          </Card>
@@ -35,6 +35,7 @@ function App() {
         {firstname && (
           <img style={{width:'10%'}}
             src="/hello.jpg" // Replace with your image
+            alt="hello image!"
           />)
         }
 
